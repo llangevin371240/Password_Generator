@@ -1,6 +1,6 @@
 # # Password generator
 
-## Lloyd Langevin - Week 2 homework
+## Lloyd Langevin - section 3 homework
 
 ![Password_Gen_Preview](https://github.com/llangevin371240/Password_Generator/blob/main/Assets/Password_Gen_Preview.png)
 
